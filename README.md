@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @pk47289
+- 👀 I’m interested in Python, plants and video games
+- 🌱 I’m a computer science masters student
